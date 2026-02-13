@@ -58,9 +58,7 @@
 <div align="center">
   <h3>♟️ Play Chess With Me!</h3>
   <p>Click the board below to start a new game.</p>
-  <a href="https://github.com/nem-web/nem-web/issues/new?title=Chess%3A+start">
-   Click here to test Issue Creation
-</a>
+  <a href="https://github.com/nem-web/nem-web/issues/new?body=Please+do+not+change+the+title.+Just+click+Submit+new+issue.+You+don%27t+need+to+do+anything+else.%0D%0A%0D%0A%3Cdetails%3E%0D%0A%3Csummary%3Eboard+state%3C%2Fsummary%3E%0D%0A%0D%0Arnbqkbnr%2Fpppppppp%2F8%2F8%2F8%2F8%2PPPPPPPP%2FRNBQKBNR+w+KQkq+-+0+1%0D%0A%3C%2Fdetails%3E&title=Chess%3A+start">
     <img src="https://github-readme-chess.vercel.app/api?username=nem-web&theme=wave" alt="Chess Board" />
   </a>
 </div>
