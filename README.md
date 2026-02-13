@@ -33,14 +33,14 @@
 
 <div align="center">
   <h3>📊 Mission Report</h3>
-  <p>
+  <!-- <p>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img height="180" src="https://github-readme-stats.vercel.app/api?username=nem-web&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nem-web&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
     </a>
-  </p>
+  </p> -->
   <p>
     <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=nem-web&theme=tokyonight&hide_border=true" />
   </p>
@@ -55,15 +55,15 @@
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
   <h3>♟️ Play Chess With Me!</h3>
   <p>Click the board below to start a new game.</p>
   <a href="https://github.com/nem-web/nem-web/issues/new?title=Chess%3A+start">
     <img src="https://github-readme-chess.vercel.app/api?username=nem-web&theme=wave" alt="Chess Board" />
   </a>
-</div>
+</div> -->
 
-<br/>
+<!-- <br/> -->
 
 <div align="center">
   <h3>🧩 3D Contributions</h3>
