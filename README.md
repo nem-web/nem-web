@@ -35,14 +35,14 @@
   <h3>📊 Mission Report</h3>
   <p>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nem-web&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=nem-web&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nem-web&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
+      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nem-web&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
     </a>
   </p>
   <p>
-    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=nem-web&theme=tokyonight&hide_border=true" />
+    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=nem-web&theme=tokyonight&hide_border=true" />
   </p>
 </div>
 
@@ -62,7 +62,6 @@
     <img src="https://github-readme-chess.vercel.app/api?username=nem-web&theme=wave" alt="Chess Board" />
   </a>
 </div>
-
 <br/>
 
 <div align="center">
@@ -74,7 +73,7 @@
 
 <div align="center">
   <h3>🐍 Contribution Snake</h3>
-  <img src="https://github.com/nem-web/nem-web/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/nem-web/nem-web/output/github-contribution-grid-snake.svg" alt="snake" />
 </div>
 
 <br/>
@@ -88,6 +87,6 @@
   <a href="https://paypal.me/nemweb">
     <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
   </a>
-  
+   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00c3ff&height=100&section=footer"/>
 </div>
